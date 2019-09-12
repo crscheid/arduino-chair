@@ -2,7 +2,9 @@
 
 This project contains the Arduino controller code to modify a [Hot Wheels Wild Thing](https://fisher-price.mattel.com/shop/en-us/fp/power-wheels/power-wheels-wild-thing-orange-dfv03) ride-on vehicle for children with mobility needs.
 
-Original credits for this project go to [FRC Team 1939](https://www.instructables.com/id/Wild-Thing-Modification/) who outlined how to do the modification. This project code follows this approach. However for this project, the Arduino controller code was modified to suit our needs.
+**DISCLAIMER: The author of this code is not responsible for any injuries to any person or damages to any object including the car caused by the modifications. Any type of modification will also void the warranty provided by the manufacturer of the car.**
+
+Original credits for this project go to [FRC Team 1939](https://www.frcteam1939.com) who outlined [how to do the modification](https://www.instructables.com/id/Wild-Thing-Modification/). This project code follows this approach. However for this project, the Arduino controller code was modified to suit our needs.
 
 ## Modifications from FRC Team 1939 Code
 
@@ -18,12 +20,12 @@ The original codebase can be found here: [FIRST1939/GoBabyGo](https://github.com
 
 ## Parts List
 
-<TBD>
+TBD
 
 ## Circuit Layout
 
-<TBD>
+TBD
 
 ## Customization Options
 
-<TBD>
+TBD
